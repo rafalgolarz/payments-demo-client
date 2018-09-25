@@ -6,7 +6,7 @@
       <b-collapse is-nav id="nav_collapse">
         <b-navbar-nav>
           <b-nav-item to="/">Home</b-nav-item>
-          <b-nav-item to="/posts-manager">Payments Manager</b-nav-item>
+          <b-nav-item to="/payments-manager">Payments Manager</b-nav-item>
           <div>
             <b-btn type="button" variant="success" v-on:click="createPayment">Create Payment</b-btn>
           </div>
