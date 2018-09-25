@@ -1,6 +1,6 @@
 # payments-demo-client
 
-> CRUD client of Payments DEMO API
+> CRUD client of Payments DEMO API (https://github.com/rafalgolarz/payments-demo)
 
 ## Build Setup
 
